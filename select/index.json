@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "死ぬまでダーリン",
+  "base_artist": "HoneyWorks",
+  "createdAt": "2026-02-07T21:50:27.416743Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "死ぬまでダーリン (feat. Hanon)",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_死ぬまでダーリン_(feat._Hanon)_HoneyWorks.txt"
+    }
+  ]
+}
